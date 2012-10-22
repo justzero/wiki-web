@@ -28,4 +28,7 @@ a\cell one a\cell two a\cell three
   * [X] Make numbered list items toggleable too.
   * [X] Add highlighting to list item boxes.
   * [X] Add [ ] to the next list item created using o, O or <CR>.
+  * [ ] this is test!
 %% this text would not be in HTML
+
+== [[diary/diary|My daily wiki]] ==

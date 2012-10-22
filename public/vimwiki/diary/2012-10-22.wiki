@@ -1,4 +1,9 @@
+%%---
+%title daily build
+%template base
+%%---
+
 # this is a test
 # like this one?
 # this ?
-#
+# haizeiwang 48
