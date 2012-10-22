@@ -1,0 +1,31 @@
+%%---
+%title demo
+%template base
+%%---
+    
+
+= this is my first page =
+{{{
+// javascript
+function () {
+    // debug!
+}
+}}}
+
+~~done~~
+
+
+    this is a test!
+----
+a\cell one a\cell two a\cell three
+
+= Toggleable list of todo items =
+  * [ ] Toggle list item on/off.
+    * [o] Simple toggling between [ ] and [X].
+    * [O] All of a list's subitems should be toggled on/off appropriately.
+    * [X] Toggle child subitems only if the current line is a list item.
+    * [ ] Parent list item should be toggled depending on their child items.
+  * [X] Make numbered list items toggleable too.
+  * [X] Add highlighting to list item boxes.
+  * [X] Add [ ] to the next list item created using o, O or <CR>.
+%% this text would not be in HTML
